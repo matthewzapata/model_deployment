@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+    font-family: Cambria;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+body {
+    background: black
+}
+
+h3 {
+    text-align: center;
+    font-size: 24px;
+    color: blue;
+}
+
+p {
+    color: white
+}
+
+ul {
+    color: aqua
+}
+
+p {
+    color:white
+}
